@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/0.png</file>
+        <file>Images/1.png</file>
+        <file>Images/2.png</file>
+        <file>Images/3.png</file>
+        <file>Images/4.png</file>
+        <file>Images/5.png</file>
+        <file>Images/6.png</file>
+        <file>Images/7.png</file>
+        <file>Images/in.png</file>
+        <file>Images/table.png</file>
+        <file>Images/vs.png</file>
+        <file>Images/head.png</file>
+        <file>Images/play.png</file>
+        <file>Images/psd.png</file>
+        <file>Images/register.png</file>
+        <file>Images/user.png</file>
+        <file>Images/cursor.png</file>
+        <file>Images/left.png</file>
+        <file>Images/right.png</file>
+    </qresource>
+</RCC>
